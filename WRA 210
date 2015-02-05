@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title> WRA 210 Course Page</title>
+	<head>
+		<title> WRA 210 Course Page</title>
+	</head>
 	<body>
-	<p> Hi </p>
+		<h2 style="font-family:espacio novo"> Abi Whitford'd WRA 210 Course Page </p>
+		<h4> A repository for all of the course materials in WRA 210.
+			<p>
+				<ul>
+				<li> Module 1</li>
+				</ul> 
+			</p>
 	</body>
 </html>
