@@ -6,12 +6,15 @@ body {
 }
 
 h2 {
+	font-family:NEOTERIC;
 	color:#4e85f4;
 }
 h4{
+	font-family:NEOTERIC;
 	color:#4e85f4;
 }
-p{
+p{	
+	font-family:NEOTERIC;
 	color:#2a6dea;
 }
 span{
