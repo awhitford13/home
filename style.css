@@ -5,7 +5,7 @@ body {
 
 }
 
-h2 {
+h1 {
 	font-family:NEOTERIC;
 	color:#4e85f4;
 }
@@ -24,5 +24,5 @@ span{
 ul{
 	color:#ed934e;
 	font-family:NEOTERIC;
-	font-size:14px;
+	font-size:20px;
 }
