@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+   	<head>
+   			<link href="style.css" type="text/css" rel="stylesheet" />
+        	<title>Panda Facts</title>
+    </head>
+	<body>
+		<h1>Facts About Pandas</h1>
+
+		<img src=http://static.guim.co.uk/sys-images/Guardian/Pix/audio/video/2012/9/17/1347907861151/Giant-panda-Mei-Xiang-tak-010.jpg>
+
+		<p>
+			<ol>
+				<li>Panda milk is deadly to any animal other than the panda.</li>
+				<li>In addition to their fish phobia, pandas are also terrified of butterflies, and go to great lengths to stay away from them. </li>
+				<li>In 1977, eight pandas dug a 7-metre escape tunnel from their enclosure at Miami. Their plan was uncovered by city engineers working to repair a storm drain.</li>
+			</ol>
+
+		<p>
+		For more information visit: <a href=”http://www.livescience.com/27335-giant-pandas.html”><div>PandaFacts.com</div></a>
+		</p>
+
+		</p>
+	</body>
+</html>
