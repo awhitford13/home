@@ -3,19 +3,21 @@
 }
 p{
 	color:#ffffff;
+	font-family:cursive;
 }
 ol{
 	color:#ffffff;
+	font-family:Helvetica;
 }
 h1{
 	color:#ffffff;
+	font-family:cursive;
 }
 a{
 	color:#ff0000;
+	font-family:Helvetica;
 }
 
 div{
-	width:20px;
-	height:20px;
-	color:green;
+	
 }
