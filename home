@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="style.css" type="text/css" rel="stylesheet" />
+		<title> Abi Whitford's Portfolio</title>
+	</head>
+
+	<body>
+		<header>
+		<img scr="http://bcartstudios.com/wp-content/uploads/2012/11/bike.jpg" />
+		</header>
+
+		<nav>
+			<div class="orange bar">
+			<ul>
+				<li>Home</li>
+				<li>Work</li>
+				<li>Contact</li>
+				<li>Resume</li>
+			</ul>
+			</div>
+		</nav>
+
+		<section>
+			<div>
+				<h2>Welcome</h2>
+				<p>This is my website.</p>
+			</div>
+		</section>
+
+		<footer>
+		</footer>
+	</body>
+	</html>
