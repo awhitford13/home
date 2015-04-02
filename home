@@ -6,29 +6,33 @@
 	</head>
 
 	<body>
+		<div id="screen">
 		<header>
-		<img scr="http://bcartstudios.com/wp-content/uploads/2012/11/bike.jpg" />
+		<a href="http://bcartstudios.com/wp-content/uploads/2012/11/bike.jpg"> </a>
 		</header>
 
 		<nav>
-			<div class="orange bar">
+			<div class="orange_bar">
 			<ul>
-				<li>Home</li>
-				<li>Work</li>
-				<li>Contact</li>
-				<li>Resume</li>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Work</a></li>
+				<li><a href="#">Contact</a></li>
+				<li><a href="#">Resume</a></li>
 			</ul>
 			</div>
 		</nav>
 
 		<section>
-			<div>
+			
 				<h2>Welcome</h2>
-				<p>This is my website.</p>
-			</div>
+				<p>
+				You've reached the website of the designer, writer, creator, baker, hiker, runner, coder, leader, imaginator, reader, listner, and avid-learner known as Abigail Whitford. Abi for short. Currently, I am pursuing my passion(s) and chlling with friends at Michigan State University, East Lansing, MI. Please make yourself at home on my website. If you wish to drop me a line, visit my Contact page for more information. Enjoy!
+				</p>
+			
 		</section>
 
 		<footer>
 		</footer>
+		</div>
 	</body>
 	</html>
