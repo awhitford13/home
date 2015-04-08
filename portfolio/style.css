@@ -44,7 +44,7 @@ a:hover{
 	height:20px;
 	background-color:#fab365;
   text-align:center;
-  margin-top:700px;
+  
 }
 #screen{
 	width:1000px;
@@ -55,11 +55,26 @@ a:hover{
 
 }
 #left-align{
+  display:block;
   float:left;
-  width:500px;
-  right:px;
-  
+  width:500px; 
 }
 #above{
+  display:block;
   float:right;
+  margin-right:50px;
+  margin-top:30px;
+  
+}
+.front_pg_position{
+  width:500px;
+  margin-left:50px;
+  margin-top:30px;
+  display:block;
+  float:left;
+}
+footer {
+  width:1000px;
+	margin-right:auto;
+  margin-left:auto;
 }
