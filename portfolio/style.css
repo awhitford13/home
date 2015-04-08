@@ -2,11 +2,11 @@ body{
 	background-color:#ecf6f9;
 }
 p{
-	font-family:Helvetica;
+	font-family:Avenir;
 	color:#a8a69a;
 }
 ul{
-	font-family:Helvetica;
+	font-family:Avenir;
 	color:#a8a69a;
 	list-style-type:none;
 	margin:0;
@@ -18,7 +18,7 @@ li{
 	margin-right:70px;
 }
 h2{
-	font-family:Helvetica;
+	font-family:Avenir;
 	color:#a8a69a;
 }
 a{
