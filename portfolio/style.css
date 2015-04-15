@@ -91,6 +91,8 @@ a:hover{
   margin-top:60px;
   display:block;
   float:left;
+  border:1px black solid;
+  
 }
 
 footer {
@@ -102,8 +104,8 @@ footer {
 div section img{
 	display:block;
 	width:400px;
-	margin-top:90px;
-	margin-right:50px;
+	/*margin-top:90px;
+	margin-right:50px;*/
   	float:right;
 }
 
@@ -123,25 +125,24 @@ div section img{
   	margin-left:auto;
 }
 
-table{
+article {
+	clear:right;
 	border: 1px solid red;
 	float:right;
-	height:400px;
-	width:400px;
-	text-align:center;
-	vertical-align:middle;
-
+	width:410px;
 }
-table tr td{
+section article div {
 	border: 1px solid black;
-	text-align:center;
-	vertical-align:middle;
+	height:200px;
+	width:200px;
+	display:block;
+	float:left;
 }
 
-
-section div table tr td img{
+section article div.thumbnail img{
 	width:130px;
 	height:130px;
+	padding:35px;
 }
 
 .d{
@@ -176,4 +177,13 @@ section div table tr td img{
 }
 .work_image_pic{
 	width:350px;
+}
+.icons{
+	width:100px;
+	float:left;
+	display:block;
+	
+}
+.icons:hover{
+	width:80px;
 }
