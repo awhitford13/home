@@ -196,3 +196,10 @@ section article div.thumbnail img{
 .work_image_pic{
 	width:400px;
 }
+.extra_long_screen{
+	width:1000px;
+	height:1500px;
+	background-color:#f6f2f1;
+  	margin-right:auto;
+  	margin-left:auto;
+}
