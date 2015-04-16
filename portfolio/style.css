@@ -80,18 +80,29 @@ a:hover{
 #above{
   display:block;
   float:right;
-  margin-right:50px;
-  margin-top:90px;
+  margin-right:70px;
+  margin-top:110px;
   width:320px;
   
 }
+.icons{
+	width:100px;
+	float:left;
+	display:block;
+	margin-right:20px;
+	margin-top:30px;
+	
+}
+.icons:hover{
+	width:80px;
+}
 .front_pg_position{
-  width:450px;
-  margin-left:50px;
-  margin-top:60px;
+  width:400px;
+  margin-left:70px;
+  margin-top:90px;
   display:block;
   float:left;
-  border:1px black solid;
+  
   
 }
 
@@ -104,11 +115,16 @@ footer {
 div section img{
 	display:block;
 	width:400px;
-	/*margin-top:90px;
-	margin-right:50px;*/
   	float:right;
 }
 
+#resume{
+	display:block;
+	width:400px;
+	margin-top:110px;
+	margin-right:70px;
+  	float:right;
+}
 #resume_screen{
 	width:1000px;
 	height:950px;
@@ -127,14 +143,17 @@ div section img{
 
 article {
 	clear:right;
-	border: 1px solid red;
+	
 	float:right;
 	width:410px;
+	margin-right:70px; 
+	margin-top:100px;
+	background-color:#ecf6f9; 
 }
 section article div {
-	border: 1px solid black;
-	height:200px;
-	width:200px;
+
+	height:203px;
+	width:203px;
 	display:block;
 	float:left;
 }
@@ -148,8 +167,8 @@ section article div.thumbnail img{
 .d{
 	width:400px;
 	height:400px;
-  	margin-left:50px;
-  	margin-top:90px;
+  	margin-left:70px;
+  	margin-top:110px;
   	display:inline;
   	float:left;
   	position:absolute;
@@ -169,21 +188,11 @@ section article div.thumbnail img{
 .work_image{
 	width:400px;
 	height:400px;
-	background-color:#ecf6f9;
 	float:right;
-	margin-top:90px;
-	margin-right:50px;
-	border:1px black solid;
-}
-.work_image_pic{
-	width:350px;
-}
-.icons{
-	width:100px;
-	float:left;
-	display:block;
+	margin-top:110px;
+	margin-right:70px;
 	
 }
-.icons:hover{
-	width:80px;
+.work_image_pic{
+	width:400px;
 }
