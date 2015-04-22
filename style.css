@@ -6,25 +6,30 @@ body {
 }
 
 h1 {
-	font-family:NEOTERIC;
+	font-family:'Lato';
+	font-weight:400;
 	color:#4e85f4;
 }
 h2{
-	font-family:NEOTERIC;
+	font-family:'Lato';
+	font-weight:300;
 	color:#4e85f4;
 }
 p{	
-	font-family:NEOTERIC;
+	font-family:'Lato';
+	font-weight:100;
 	color:#4e85f4;
 }
 span{
 	color:#eda36a;
-	font-family:KG Counting Stars;
+	font-family:'Lato';
+	font-weight:300;
 
 }
 ul{
 	color:#eda36a;
-	font-family:NEOTERIC;
+	font-family:'Lato';
+	font-weight:100;
 	font-size:21px;
 }
 a{
