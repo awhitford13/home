@@ -11,10 +11,15 @@ h1{
 	font-weight:300;
 	color:#a8a69a;
 }
-h3{
+h2{
 	font-family:'Roboto';
 	font-weight:300;
 	color:#a8a69a;
+	}
+h3{
+	font-family:'Roboto';
+	font-weight:300;
+	color:#ff9c9f;
 }
 h4{
 	font-family:'Roboto';
